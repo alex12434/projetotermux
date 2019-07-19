@@ -1,0 +1,2 @@
+# projetotermux
+termuxteste
